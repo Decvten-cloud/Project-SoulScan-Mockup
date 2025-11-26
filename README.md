@@ -1,4 +1,4 @@
-# flutter_project_pam
+# Insight_mind
 
 A new Flutter project.
 
